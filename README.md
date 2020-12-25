@@ -9,3 +9,10 @@ Heart disease is one of the biggest causes of morbidity and mortality among the 
 
 ### Block diagram of the application
 
+![alt text](https://github.com/DefuseTeam/Heart-Disease-Prediction/blob/master/Screenshots/block_diagram.jpg)
+
+### Snapshots of the application
+
+![alt text](https://github.com/DefuseTeam/Heart-Disease-Prediction/blob/master/Screenshots/user_input.png)
+
+![alt text]()
