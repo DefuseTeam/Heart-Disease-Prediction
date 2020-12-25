@@ -15,4 +15,6 @@ Heart disease is one of the biggest causes of morbidity and mortality among the 
 
 ![alt text](https://github.com/DefuseTeam/Heart-Disease-Prediction/blob/master/Screenshots/user_input.png)
 
-![alt text]()
+![alt text](https://github.com/DefuseTeam/Heart-Disease-Prediction/blob/master/Screenshots/visualisation.png)
+
+![alt text](https://github.com/DefuseTeam/Heart-Disease-Prediction/blob/master/Screenshots/dataset.png)
